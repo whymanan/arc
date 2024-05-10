@@ -491,6 +491,37 @@ p {
     margin: auto;
     text-align: center;
 }
+#underline-link {
+    text-decoration: underline !important;
+}
+.visually-hidden {
+    visibility: hidden;
+  }
+  .slider {
+    width: 100%;
+    overflow: hidden; /* Ensures that the non-active slides are hidden */
+}
+
+.slides {
+    display: flex;
+    transition: transform 1s ease-in-out; /* Smooth transition for sliding */
+    width: 300%; /* This should be 100% multiplied by the number of slides */
+}
+
+.slide {
+    width: 100vw; /* Viewport Width: each slide takes full width of the viewport */
+    flex-shrink: 0;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+
+.slide img {
+    width: 100%;
+    height: 70%;
+    display: block; /* Removes bottom space/gap */
+}
+  
 .service-section .explore{
     font-size: 20px;
     line-height: 26px;

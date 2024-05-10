@@ -27,6 +27,7 @@ function makeTabActive() {
         }
     }
 }
+  
 
 const element = document.querySelectorAll(".badge__char");
 const step = 360/element.length;
