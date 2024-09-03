@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Noah Text';
+    src: url('../fonts/NoahText-Medium.woff2') format('woff2'),
+        url('../fonts/NoahText-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noah Text';
+    src: url('../fonts/NoahText-Thin.woff2') format('woff2'),
+        url('../fonts/NoahText-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noah Text';
+    src: url('../fonts/NoahText-Regular.woff2') format('woff2'),
+        url('../fonts/NoahText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noah Text';
+    src: url('../fonts/NoahText-ExtraBold.woff2') format('woff2'),
+        url('../fonts/NoahText-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noah Text';
+    src: url('../fonts/NoahText-UltraLight.woff2') format('woff2'),
+        url('../fonts/NoahText-UltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noah Text';
+    src: url('../fonts/NoahText-Black.woff2') format('woff2'),
+        url('../fonts/NoahText-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noah Text';
+    src: url('../fonts/NoahText-Heavy.woff2') format('woff2'),
+        url('../fonts/NoahText-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noah Text';
+    src: url('../fonts/NoahText-Light.woff2') format('woff2'),
+        url('../fonts/NoahText-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noah Text';
+    src: url('../fonts/NoahText-Bold.woff2') format('woff2'),
+        url('../fonts/NoahText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
